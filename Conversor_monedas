@@ -1,0 +1,8 @@
+<?php
+
+eco "Hola mundo, soy Kevin Navarro";
+
+?>
+
+<br/>
+<img src="/Actividad3_seccionA/proyecto_php/gatoninja.jpeg">
